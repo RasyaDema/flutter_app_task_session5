@@ -19,45 +19,53 @@ dev_dependencies:
 
 flutter:
   # TODO: Insert Fonts (103)
+  fonts:
+    - family: Rubik
+      fonts:
+        - asset: fonts/Rubik-Regular.ttf
+        - asset: fonts/Rubik-Medium.ttf
+          weight: 500
   uses-material-design: true
   assets:
-    - assets/diamond.png
+    - assets/manga.png
     # TODO: Add slanted menu asset (104)
+    - assets/slanted_menu.png
     - packages/shrine_images/0-0.jpg
-    - packages/shrine_images/1-0.jpg
-    - packages/shrine_images/2-0.jpg
-    - packages/shrine_images/3-0.jpg
-    - packages/shrine_images/4-0.jpg
-    - packages/shrine_images/5-0.jpg
-    - packages/shrine_images/6-0.jpg
-    - packages/shrine_images/7-0.jpg
-    - packages/shrine_images/8-0.jpg
-    - packages/shrine_images/9-0.jpg
-    - packages/shrine_images/10-0.jpg
-    - packages/shrine_images/11-0.jpg
-    - packages/shrine_images/12-0.jpg
-    - packages/shrine_images/13-0.jpg
-    - packages/shrine_images/14-0.jpg
-    - packages/shrine_images/15-0.jpg
-    - packages/shrine_images/16-0.jpg
-    - packages/shrine_images/17-0.jpg
-    - packages/shrine_images/18-0.jpg
-    - packages/shrine_images/19-0.jpg
-    - packages/shrine_images/20-0.jpg
-    - packages/shrine_images/21-0.jpg
-    - packages/shrine_images/22-0.jpg
-    - packages/shrine_images/23-0.jpg
-    - packages/shrine_images/24-0.jpg
-    - packages/shrine_images/25-0.jpg
-    - packages/shrine_images/26-0.jpg
-    - packages/shrine_images/27-0.jpg
-    - packages/shrine_images/28-0.jpg
-    - packages/shrine_images/29-0.jpg
-    - packages/shrine_images/30-0.jpg
-    - packages/shrine_images/31-0.jpg
-    - packages/shrine_images/32-0.jpg
-    - packages/shrine_images/33-0.jpg
-    - packages/shrine_images/34-0.jpg
-    - packages/shrine_images/35-0.jpg
-    - packages/shrine_images/36-0.jpg
-    - packages/shrine_images/37-0.jpg
+    - assets/manga0.png
+    - assets/manga1.png
+    - assets/manga2.png
+    - assets/manga3.png
+    - assets/manga4.png
+    - assets/manga5.png
+    - assets/manga6.png
+    - assets/manga7.png
+    - assets/manga8.png
+    - assets/manga9.png
+    - assets/manga10.png
+    - assets/manga11.png
+    - assets/manga12.png
+    - assets/manga13.png
+    - assets/manga14.png
+    - assets/manga15.png
+    - assets/manga16.png
+    - assets/manga17.png
+    - assets/manga18.png
+    - assets/manga19.png
+    - assets/manga20.png
+    - assets/manga21.png
+    - assets/manga22.png
+    - assets/manga23.png
+    - assets/manga24.png
+    - assets/manga25.png
+    - assets/manga26.png
+    - assets/manga27.png
+    - assets/manga28.png
+    - assets/manga29.png
+    - assets/manga30.png
+    - assets/manga31.png
+    - assets/manga32.png
+    - assets/manga33.png
+    - assets/manga34.png
+    - assets/manga35.png
+    - assets/manga36.png
+    - assets/manga37.png
